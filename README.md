@@ -11,7 +11,7 @@ Reference for Graph.h: http://www.stroustrup.com/Programming/PPP2code/Graph.h
 
 # Example
 ####6-sided Polygon
-![6-sided input](https://github.com/AlanC5/Polygon-Generator//blob/master/6-sided%20Polygon%20(1).png)
+![6-sided input](https://github.com/AlanC5/Polygon-Generator/blob/master/103-sided%20Polygon%20(1).png)
 
 ![6-sided output](https://github.com/AlanC5/Polygon-Generator/blob/master/6-sided%20Polygon%20(2).png)
 
