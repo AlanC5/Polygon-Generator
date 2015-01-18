@@ -4,10 +4,8 @@ Used FLTK to generate a polygon based on user input (# of points greater than 2)
 The program was written in Eclipse with some modifications to: 
 
 Properties -> C/C++ Build -> Settings -> MacOS X C++ Linker -> Libraries  
-![Libraries](https://github.com/AlanC5/Polygon-Generator/blob/master/Libraries.png)
 
 Properties -> C/C++ Build -> Settings -> GCC C++ Compiler -> Includes
-![Includes](https://github.com/AlanC5/Polygon-Generator/blob/master/Includes.png)
 
 Reference for Graph.h: http://www.stroustrup.com/Programming/PPP2code/Graph.h
 
